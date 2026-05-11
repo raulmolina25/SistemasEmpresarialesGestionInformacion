@@ -91,6 +91,7 @@ services:
     restart: unless-stopped
 
 Para hacer un **backup**:
+** Como la base de datos esta en Docker tendremos que añadir docker exec previamente al comando. **
 
 **Asegurarse como se ven los datos:** 
 
